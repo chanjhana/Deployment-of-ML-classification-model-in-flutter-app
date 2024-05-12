@@ -1,6 +1,8 @@
 # catdog
 
-A new Flutter project.
+A binary classification ML model (.tflite) in flutter.
+
+https://github.com/chanjhana/Deployment-of-ML-classification-model-in-flutter-app/assets/151899327/582af73b-31b9-4ad7-8bd3-381e82afefc9
 
 ## Getting Started
 
